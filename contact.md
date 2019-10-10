@@ -3,11 +3,11 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [cbogezi@gmail.com](mailto:cbogezi@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-425-628-4058](tel:+1-425-628-4058)
 
----
+<!-- ---
 
 ## Mailing Address
 
@@ -17,10 +17,9 @@ is_contact: true
 >
 > United Kingdom
 
----
+--- -->
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/carol-bogezi-6979532a/)
+2. [Twitter](https://www.twitter.com/carolwildlife)
