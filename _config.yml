@@ -53,7 +53,7 @@ nav:
    link: "talks"
  - name: "Contact"
    link: "contact"
- - name: "Resume"
-   link: "resume.pdf" # put your files in the assets directory
- - name: "About"
-   link: "/researcher/"
+ # - name: "Resume"
+ #   link: "resume.pdf" # put your files in the assets directory
+ # - name: "About"
+ #   link: "/researcher/"
