@@ -5,3 +5,5 @@ _site
 sherlock.jpg
 bits-logo.png
 resume.pdf
+.jekyll-cache
+vendor/
