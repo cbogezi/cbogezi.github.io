@@ -5,8 +5,3 @@ _site
 sherlock.jpg
 bits-logo.png
 resume.pdf
-Gemfile.lock
-Gemfile
-researcher.gemspec
-vendor/
-.bundle/
