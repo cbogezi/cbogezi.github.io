@@ -7,3 +7,5 @@ bits-logo.png
 resume.pdf
 .jekyll-cache
 vendor/
+.bundle/
+.jekyll-metadata
