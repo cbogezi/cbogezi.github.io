@@ -24,7 +24,6 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-<<<<<<< HEAD
 footer_url: "https://github.com/ankitsultana/researcher"
 footer_text: "Based on Researcher template by Ankit Sultana"
 
@@ -38,10 +37,6 @@ footer_text: "Based on Researcher template by Ankit Sultana"
 #   rss: # just type anything here for a working RSS icon
 #   twitter: carolwildlife
 
-=======
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
->>>>>>> 28ecdbf6edd29d548cb65fbc46283d6ff674f6b7
 
 # remote_theme: ankitsultana/researcher@gh-pages
 
@@ -58,10 +53,7 @@ nav:
    link: "talks"
  - name: "Contact"
    link: "contact"
-<<<<<<< HEAD
-=======
  - name: "Resume"
    link: "resume.pdf" # put your files in the assets directory
  - name: "About"
    link: "/researcher/"
->>>>>>> 28ecdbf6edd29d548cb65fbc46283d6ff674f6b7
