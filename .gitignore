@@ -5,7 +5,7 @@ _site
 sherlock.jpg
 bits-logo.png
 resume.pdf
-.jekyll-cache
+.jekyll-cache/
 vendor/
 .bundle/
 .jekyll-metadata
