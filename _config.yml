@@ -48,7 +48,7 @@ nav:
  - name: "About"
    link: "index" #index
  - name: "Resume"
-   link: "resume.pdf"
+   link: "/assets/Bogezi_Resume_March2020.pdf"
  - name: "Talks"
    link: "talks"
  - name: "Contact"
