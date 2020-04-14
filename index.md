@@ -17,7 +17,7 @@ Previously, I undertook ecological research on *Crocodylus suchus* in Kidepo Nat
 
 ## Publications
 
-1. **Bogezi C.**, L. van Eeden, A. Wirsing, J. Marzluff (2019) Stakeholder perspectives on predator-friendly beef as an economic strategy for ranchers to better coexistence with wolves.” Frontiers in Ecology and Evolution 7:476 Doi: 10.3389/fevo.2019.00476.
+1. **Bogezi C.**, L. van Eeden, A. Wirsing, J. Marzluff (2019) Stakeholder perspectives on predator-friendly beef as an economic strategy for ranchers to better coexistence with wolves. Frontiers in Ecology and Evolution 7:476. [doi: 10.3389/fevo.2019.00476](https://doi.org/10.3389/fevo.2019.00476).
 2. **Bogezi, Carol** (2018). Interactions between people and carnivores in Washington state. A PhD dissertation submitted to the University of Washington.
 3. **Bogezi, Carol** (2015). Distribution and status of *Crocodylus suchus* in and around Kidepo Valley National Park. MSc Thesis submitted to Makerere University, Kampala, Uganda.
 4. **Bogezi, C.**, C. Gowan, J. Marzluff, A. Wirsing (2014). Tackling wolf management’s thorniest issue: the ecological and social complexities of lethal control. A panel white paper from a wolf discussion panel hosted by Pacific Wolf Coalition and University of Washington School of Environment and Forest Sciences.
