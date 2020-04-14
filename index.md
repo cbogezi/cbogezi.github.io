@@ -15,10 +15,13 @@ I perform interdisciplinary research on wildlife conservation issues integrating
 
 Previously, I undertook ecological research on *Crocodylus suchus* in Kidepo National Park in northeast Uganda. This crocodile population was discovered at the easternmost extent of this subspecies' range. I investigated the habitat occupancy within sub-basins in and around Kidepo.
 
-<!-- ## Publications
+## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London -->
+1. **Bogezi C.**, L. van Eeden, A. Wirsing, J. Marzluff (2019) Stakeholder perspectives on predator-friendly beef as an economic strategy for ranchers to better coexistence with wolves.” Frontiers in Ecology and Evolution 7:476 Doi: 10.3389/fevo.2019.00476.
+2. **Bogezi, Carol** (2018). Interactions between people and carnivores in Washington state. A PhD dissertation submitted to the University of Washington.
+3. **Bogezi, Carol** (2015). Distribution and status of *Crocodylus suchus* in and around Kidepo Valley National Park. MSc Thesis submitted to Makerere University, Kampala, Uganda.
+4. **Bogezi, C.**, C. Gowan, J. Marzluff, A. Wirsing (2014). Tackling wolf management’s thorniest issue: the ecological and social complexities of lethal control. A panel white paper from a wolf discussion panel hosted by Pacific Wolf Coalition and University of Washington School of Environment and Forest Sciences.
+5. Plumptre, A., Mutungire, N., Mugabe, H., Kirunda B., **Bogezi, C.**, Kityo, R., Behangana, M., Turyeigurira, J., and Prinsloo, S. (2009). Biodiversity surveys of Kabwoya Wildlife Reserve and Kaiso Tonya Community Conservation Area. A technical report submitted to Wildlife Conservation Society, Uganda.
 
 ## Awards / Scholarships
 
@@ -28,7 +31,7 @@ Previously, I undertook ecological research on *Crocodylus suchus* in Kidepo Nat
 2016 | "Top 40 Women Under 40" | Sunday Monitor newspaper, Uganda
 2016 | [Environmental Leadership Prize](http://www.bullitt.org/programs/environmental-fellowship/) | Bullitt Foundation
 2013 | [Wildlife Conservation Network Scholarship](https://wildnet.org/what-we-do/scholarships) | In support of PhD studies.
-2011 | [Beinecke African Scholarship](http://fdnweb.org/beinecke/scholarships/africa/) | Awarded by [Wildlife Conservation Society (WCS)](https://www.wcs.org) to support PhD studies.
+2011 | [Beinecke African Wildlife Scholarship](http://fdnweb.org/beinecke/scholarships/africa/) | Awarded by [Wildlife Conservation Society (WCS)](https://www.wcs.org) to support PhD studies.
 2009 | [Tropical Biology Association Scholarship](http://www.tropical-biology.org/) | In support of Master's Degree studies at Makerere University.
 
 <!-- Here is a horizontal rule -->
@@ -44,5 +47,7 @@ Additionally, I serve on the board of [Conservation Northwest](https://www.conse
 
 ## References
 
-* [John Marzluff, PhD](https://sefs.uw.edu/research/faculty-profile/john-marzluff/), University of Washington School of Environment and Forest Sciences Professor
+* [Prof. John Marzluff, PhD](https://sefs.uw.edu/research/faculty-profile/john-marzluff/), University of Washington School of Environment and Forest Sciences, James W. Ridgeway Professor of Forest Sciences
+* [Prof. Stanley Asah, PhD](https://sefs.uw.edu/research/faculty-profile/john-marzluff/), University of Washington School of Environment and Forest Sciences, Professor of Human Dimensions of Natural Resources
+* [James Deutsch, PhD](https://www.rainforesttrust.org/rainforest-trust-appoints-james-deutsch-ceo/), Rainforest Trust, Chief Executive Officer
 <!-- * John Doe: Associate Professor, Department of Computer Science, Ipsum -->
