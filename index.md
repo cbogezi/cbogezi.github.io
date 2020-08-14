@@ -6,10 +6,10 @@ layout: default
 
 <img class="profile-picture" src="cb_twitter.jpeg">
 
-My name is Carol Bogezi and this is my professional site. I recently earned my PhD in Wildlife Science from the University of Washington. I am currently seeking employment opportunities to apply my expertise to conservation program management and applied research. If you have any questions, please contact me: [cbogezi@gmail.com](mailto:cbogezi@gmail.com).
+My name is Carol Bogezi and this is my professional site. I am currently working on some consulting contracts and seeking a full-time employment opportunity to apply my expertise to conservation program management and applied research. If you have like to connect with me, please email me at: [cbogezi@gmail.com](mailto:cbogezi@gmail.com).
 
 ## Research Interest
-I recently earned my PhD in Environmental Science at the [University of Washington](http:/www.uw.edu)'s School of Environment and Forest Sciences [(SEFS)](http://www.cfr.washington.edu/). My Urban Ecology lab advisor [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10) secured a grant for the ["Feasibility of a Wolf Economy"](https://reeis.usda.gov/web/crisprojectpages/0232727-feasibility-of-a-wolf-economy-for-washington.html) that formed the basis of my dissertation.
+I earned my PhD in Environmental Science at the [University of Washington](http:/www.uw.edu)'s School of Environment and Forest Sciences [(SEFS)](http://www.cfr.washington.edu/). My Urban Ecology lab advisor [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10) secured a grant for the ["Feasibility of a Wolf Economy"](https://reeis.usda.gov/web/crisprojectpages/0232727-feasibility-of-a-wolf-economy-for-washington.html) that formed the basis of my dissertation.
 
 I perform interdisciplinary research on wildlife conservation issues integrating social, ecological, and geographic sciences. My dissertation focused on understanding human-carnivore interactions in Washington state, particularly wolves in the context of their recovery, and cougars in the context of their habitat and ranging needs overlap with human recreation and habitation.
 

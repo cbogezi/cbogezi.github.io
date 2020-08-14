@@ -6,6 +6,10 @@ layout: default
 I enjoy sharing my research discoveries with wide audiences, including educational classes, public interest groups, and the general public through a variety of fora. Below is a list of various talks that I have given and relevant links.
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**. -->
 
+**2020**
+- July - Doris Duke Conservation Scholars Program, University of Washington
+- July - Wildlife Ecology class, University of Washington
+
 **2019**
 - May - invited keynote speaker for STEM Fair at Sammamish High School, Bellevue, WA
 - May - Fish & Wildlife Ecology Seminar, University of Washington
