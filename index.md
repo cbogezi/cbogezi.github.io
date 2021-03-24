@@ -17,15 +17,16 @@ Previously, I undertook ecological research on *Crocodylus suchus* in Kidepo Nat
 
 ## Publications
 
-1. **Bogezi C.**, L. van Eeden, A. Wirsing, J. Marzluff (2019) Stakeholder perspectives on predator-friendly beef as an economic strategy for ranchers to better coexistence with wolves. Frontiers in Ecology and Evolution 7:476. [doi: 10.3389/fevo.2019.00476](https://doi.org/10.3389/fevo.2019.00476).
-2. **Bogezi, Carol** (2018). Interactions between people and carnivores in Washington state. A PhD dissertation submitted to the University of Washington.
-3. **Bogezi, Carol** (2015). Distribution and status of *Crocodylus suchus* in and around Kidepo Valley National Park. MSc Thesis submitted to Makerere University, Kampala, Uganda.
-4. **Bogezi, C.**, C. Gowan, J. Marzluff, A. Wirsing (2014). Tackling wolf management’s thorniest issue: the ecological and social complexities of lethal control. A panel white paper from a wolf discussion panel hosted by Pacific Wolf Coalition and University of Washington School of Environment and Forest Sciences.
-5. Plumptre, A., Mutungire, N., Mugabe, H., Kirunda B., **Bogezi, C.**, Kityo, R., Behangana, M., Turyeigurira, J., and Prinsloo, S. (2009). Biodiversity surveys of Kabwoya Wildlife Reserve and Kaiso Tonya Community Conservation Area. A technical report submitted to Wildlife Conservation Society, Uganda.
+1. van Eeden, L., S. Rabotyagov, M. Kather, **C. Bogezi**, A. Wirsing, J. Marzluff (2021). Political affiliation predicts public attitudes toward gray wolf (*Canis lupus*) conservation and management. Conservation Science and Practice e387. [doi: 10.1111/csp2.387](https://doi.org/10.1111/csp2.387).
+2. **Bogezi C.**, L. van Eeden, A. Wirsing, J. Marzluff (2019). Stakeholder perspectives on predator-friendly beef as an economic strategy for ranchers to better coexistence with wolves. Frontiers in Ecology and Evolution 7:476. [doi: 10.3389/fevo.2019.00476](https://doi.org/10.3389/fevo.2019.00476).
+3. **Bogezi, Carol** (2018). Interactions between people and carnivores in Washington state. A PhD dissertation submitted to the University of Washington.
+4. **Bogezi, Carol** (2015). Distribution and status of *Crocodylus suchus* in and around Kidepo Valley National Park. MSc Thesis submitted to Makerere University, Kampala, Uganda.
+5. **Bogezi, C.**, C. Gowan, J. Marzluff, A. Wirsing (2014). Tackling wolf management’s thorniest issue: the ecological and social complexities of lethal control. A panel white paper from a wolf discussion panel hosted by Pacific Wolf Coalition and University of Washington School of Environment and Forest Sciences.
+6. Plumptre, A., Mutungire, N., Mugabe, H., Kirunda B., **Bogezi, C.**, Kityo, R., Behangana, M., Turyeigurira, J., and Prinsloo, S. (2009). Biodiversity surveys of Kabwoya Wildlife Reserve and Kaiso Tonya Community Conservation Area. A technical report submitted to Wildlife Conservation Society, Uganda.
 
 ## Awards / Scholarships
 
->Year | Award | Organization/Purpose
+Year | Award | Organization/Purpose
 -----|-------|--------
 2018 | [UW Husky 100](https://www.washington.edu/husky100/#name=carol-bogezi) | Recognized as one of the University of Washington's notable students.
 2016 | "Top 40 Women Under 40" | Sunday Monitor newspaper, Uganda
@@ -41,7 +42,7 @@ Previously, I undertook ecological research on *Crocodylus suchus* in Kidepo Nat
 ## Personal Interests
 My interests include education, women's empowerment, and community development particularly in Uganda. I serve as the President of [Tusubira](http://www.tusubira.org)'s volunteer board.
 
-Additionally, I serve on the board of [Conservation Northwest](https://www.conservationnw.org).
+Additionally, I serve on the board of [Youth for Nature](https://www.youth4nature.org/board-of-directors) and am an academic mentor for [International Peer Education on Climate Change (IPECC)](https://www.ipecc.org/about). I previously served on the board for [Conservation Northwest](https://www.conservationnw.org).
 
 <!-- > To a great mind, nothing is little -->
 
