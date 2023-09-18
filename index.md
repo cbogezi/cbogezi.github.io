@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="cb_twitter.jpeg">
 
-My name is Carol Bogezi and this is my professional site. I am currently working on some consulting contracts and seeking a full-time employment opportunity to apply my expertise to conservation program management and applied research. If you would like to connect with me, please email me at: [cbogezi@gmail.com](mailto:cbogezi@gmail.com).
+My name is Carol Bogezi and this is my professional site. I am currently a Research Analyst with The Nature Conservancy's Indigenous Peoples and Local Communities Team. This role allows me to conservation program management and applied research. If you would like to connect with me, please email me at: [cbogezi@gmail.com](mailto:cbogezi@gmail.com).
 
 ## Research Interest
 I earned my PhD in Environmental Science at the [University of Washington](http:/www.uw.edu)'s School of Environment and Forest Sciences [(SEFS)](http://www.cfr.washington.edu/). My Urban Ecology lab advisor [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10) secured a grant for the ["Feasibility of a Wolf Economy"](https://reeis.usda.gov/web/crisprojectpages/0232727-feasibility-of-a-wolf-economy-for-washington.html) that formed the basis of my dissertation.
